@@ -32,4 +32,4 @@ pip install -r requirements.txt
 *****
 
 ### References
-[1] Asare, B. A. and Branco, P. and Kiringa, I. and Yeap, T. (2017) *"AddShare: a Privacy-Preserving Approach for Federated Learning"*  Procedings of Machine Learning Research, DPM 2023, Short Paper, The Hague, Netherlands. (to appear).
+[1] Asare, B. A. and Branco, P. and Kiringa, I. and Yeap, T. (2017) *"AddShare: a Privacy-Preserving Approach for Federated Learning"*  ESORICS 2023 International Workshops: DPM, Short Paper, The Hague, Netherlands. (to appear).
